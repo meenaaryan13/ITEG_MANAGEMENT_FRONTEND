@@ -1,0 +1,45 @@
+#div0{
+    padding-left: 90px;
+    margin-bottom: -42px;
+    font-size: 25px;
+    position: relative
+    
+}
+
+#div1{
+    height: 525px;
+    width: 640px;
+    border: solid;
+    border-color: rgb(85, 83, 82);
+    background-color: rgb(180, 202, 224);
+    font-size: 18px;
+
+}
+#input1{
+    width: 440px;
+}
+    
+
+
+#div4{
+    padding-left: 110px;
+    margin-top: 20px;
+    margin-bottom: -45px;
+    font-size: 25px;
+
+}
+
+
+
+#button1{
+    float: right;
+    margin-top: 20px;
+    margin-right: 30px;
+    
+}
+#button2{
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+
+}
